@@ -1,6 +1,6 @@
 <h1 align="center"></> Hi there👋, I'm Abdullah Abir</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt"Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fchipp%2Fcollections%2F572323-coding-gifs&psig=AOvVaw1mKfvtwCEWFdg2ZE-Fhv75&ust=1711140156071000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDd04WchoUDFQAAAAAdAAAAABAE">
+<img align="right" alt"Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creative-md-arif&label=Profile%20views&color=0e75b6&style=flat" alt="creative-md-arif" /> </p>
 
