@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Abir</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="500" src="https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&w=600">6966>
+<img align="right" alt="Coding" width="500" src="https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&w=600">
 
 
 - 🌱 I’m currently learning **REACT**
