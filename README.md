@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Abir</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="550" height='450' src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif"
+<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-abir-web&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-abir-web" /> </p>
 
