@@ -18,7 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-abir-web&show_icons=true&locale=en&layout=compact" alt="abdullah-abir-web" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah-abir-web&show_icons=true&locale=en" alt="abdullah-abir-web" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-abir-web&" alt="abdullah-abir-web" /></p>
